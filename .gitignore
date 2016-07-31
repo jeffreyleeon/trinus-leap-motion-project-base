@@ -2,6 +2,9 @@
 # Unity generated #
 # =============== #
 [Tt]emp/
+[Ll]ibrary/*
+Library/*
+Library/
 [Oo]bj/
 [Bb]uild
 sysinfo.txt
